@@ -5,14 +5,14 @@ import java.util.List;
 import java.util.Map;
 
 public class Notebook {
-
+    
     private String name;
     private int RAM;
     private int Hard_disk;
     private String Sys;
     private String Color;
 
-    public Notebook(String name, int RAM, int Hard_disk, String Sys, tring Color) {
+    public Notebook(String name, int RAM, int Hard_disk, String Sys, String Color) {
         this.name = name;
         this.RAM = RAM;
         this.Hard_disk = Hard_disk;

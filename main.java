@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
 
         Set<Notebook> set = new HashSet<>();
